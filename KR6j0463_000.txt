@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 無能勝大明心陀羅尼經
+#+DATE: 2015-08-30 20:33:00.888279
+#+PROPERTY: JUAN 0
