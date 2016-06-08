@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:00.661169
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:14
 #+TITLE: 無能勝大明心陀羅尼經
 #+PROPERTY: CBETA_ID T21n1235
 #+PROPERTY: ID KR6j0463
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1235
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0463_T_000-0176a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0463_T_001-0176a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1235¶
-
- 《無能勝大明心陀羅尼經》¶
+No. 1235¶
+《無能勝大明心陀羅尼經》¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳教大師臣法天奉　詔譯¶
@@ -23,9 +22,9 @@ No.1235¶
 「　歸命無上覺
 　及法聖賢眾¶
 　大明心真言
-　無能勝自說
+　無能勝自說」
 #+END_VERSE
-」¶
+¶
 
 如來應正等覺亦說此明。利益一切眾生。成¶
 就一切吉祥事業。消除重罪而無中夭。壽命
